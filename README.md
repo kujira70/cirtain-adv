@@ -1,45 +1,4 @@
 # cirtain-adv
-
-Chat history
-New chat
-Close sidebar
-Today
-Keyboard Recommendations 2023
-Yesterday
-uiharu adv
-
-
-AI Suggests Use Cases
-ChatGPT Assists User
-Noteable Plugin Overview
-Previous 7 Days
-Move Vertex Toward Camera.
-Previous 30 Days
-Blender Edge Bender Plugin
-No Blender on Android.
-Virtual Keyboard Device
-Virtual Keyboard with Brake.
-3D Shape Reconstruction Plugin
-Origin of Digital Info
-ThumbKeyboard: Virtual Keyboard for Touchscreens
-Scroll to bottom, 3s
-Code Brainstorming
-New chat
-Delete Segment from Stroke.
-Boosting Confidence at Work
-New chat
-Code Review: KeyError Fix
-File System Monitor & Tree
-List Files in PowerShell
-VBA Excel Code Summary
-Excel VBA Code Summary
-User Request: testing Title: Test Request
-April
-Memory Limitations
-Android app planning assistance.
-変速機動作不良対策
-AI Forgetting Conversations
-
 User
 Shinpei Kono
 GPT-4
