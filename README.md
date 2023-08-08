@@ -1,9 +1,5 @@
 # cirtain-adv
 User
-Shinpei Kono
-GPT-4
-
-User
 I am about to plot a story.　　A girl with hyper-human abilities
 ChatGPT
 That's an intriguing premise! Here's a potential story plot for you:
